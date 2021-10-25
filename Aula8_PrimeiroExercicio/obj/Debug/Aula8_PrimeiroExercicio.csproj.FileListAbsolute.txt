@@ -1,0 +1,19 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.Properties.Resources.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.GenerateResource.Cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.frmTeste.resources
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe.config
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.frmTeste.resources
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.Properties.Resources.resources
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.GenerateResource.cache
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.exe
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.pdb
